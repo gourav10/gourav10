@@ -21,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourav10&show_icons=true&locale=en" alt="gourav10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourav10&" alt="gourav10" /></p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/markov_sucks?theme=light&font=Archivo%20Black)
